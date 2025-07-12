@@ -11,7 +11,7 @@ I keep having a recurring daydream about simpler times in my career, specificall
 On top of being merely amusing, it's actually a deceptively insightful thought experiment: What if you did put a Senior Software Engineer's brain inside of an intern?
 
 
-> As an important disclaimer, I do not dare proclaim to be any sort of technical genius or seasoned veteran in my field. Contrarily, I know of high schoolers who are more technically competent than I should hope to be in the next **decade**. That's not an exaggeration or an attempt at self-deprecation. [Lexi Mattick](https://kognise.dev/) is actually a concrete example of this. She wrote [the article](https://cpu.land/) that taught me how CPUs work.
+> As an important disclaimer, I seriously do not claim to be any sort of technical genius or seasoned veteran in my field. Contrarily, I know of *high schoolers* who are extremely more technically competent than I am. That's not an exaggeration or an attempt at self-deprecation. [Lexi Mattick](https://kognise.dev/) is actually a concrete example of this. She wrote [the article](https://cpu.land/) that taught me how CPUs work.
 
 
 All of that being said, I do have years of experience under my belt now in web dev land. I've had enough growth in my career that I find it worthy to put thoughts to paper on the sheer gap between my self now and when I started. The field of software engineering is so vast and there is so much to be learned. The levels to it are insane. [DHH](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson) put it best in that good developers are: 
@@ -19,7 +19,8 @@ All of that being said, I do have years of experience under my belt now in web d
 
 # How different would my first day go?
 
-I'm fast forwarding through the part where I did my first interview. I vaguely remember the questions my boss posed to me, but they were very standard: *What's the most difficult project you worked on?* My **honest answer** to this question would have just shocked and confused him if I said I wrote a migration for hundreds of thousands of user accounts coordinating with tech compliance and marketing in just a few weeks --- and that the worst part was getting my assymetric decryption library to work with Alpine Linux because gRPC is dumb..
+I'm fast forwarding through the part where I did my first interview. I vaguely remember the questions my boss posed to me, but they were very standard: *What's the most difficult project you worked on?* My **honest answer** to this question would have just shocked and confused him if I said:
+> I wrote a migration for hundreds of thousands of user accounts coordinating with tech compliance and marketing in just a few weeks --- and that the worst part was getting my asymmetric decryption library to work with Alpine Linux because gRPC is dumb..
 
 Day 1 of my internship was quite intimidating --- I assume that's a relatively common experience. I had but one year of CS to my name. It's not easy in that position to jump into a ten year old codebase in a language and framework that I've never seen. Nevertheless, they pretty much threw me right in and tasked me with rewriting of some their "feed processors".
 > These feed processors were just mapping data from external providers to our own domain models. The data came from third party REST APIs. Very simple now, but this was peak wizardry for intern me.
@@ -39,9 +40,9 @@ Current me would probably have the capacity to handle the majority of the third 
 
 I like to think I would have been able to complete a major project in the realm of improving developer experience at that company. I assume they would have realized that giving me regular developer tasks would have affected their velocity enough to merit a backfill once I went back to college for a semester. So, letting me run wild with a project that helped the company, but wasn't a strict requirement would be very logical.
 
-> By the way, this company wasn't even using git at this point. Talk about being able to improve the dev experience... though I seriously doubt they would of let an intern come in and migrate their whole codebase and team to a new Version Control System.
+> By the way, this company wasn't even using git at this point. Talk about room to improve the dev experience... though I seriously doubt they would of let an intern come in and migrate their whole codebase and team to a new Version Control System.
 
-A funny exercise might be spell out some projects I know I would be capable of completing in a semesters time **now** vs. how much I didn't know about what such a project entailed **then**:
+A funny exercise might be to spell out some projects that I know I would be capable of completing in a semesters time **now** vs. just how much I didn't know about what such a project entailed **then**:
 
 | Project | Knowledge Gap |
 | ----------- | ----------- |
@@ -51,17 +52,17 @@ A funny exercise might be spell out some projects I know I would be capable of c
 
 # How different would my interactions have been?
 
-The entertaining part of this thought experiment to me is pondering what reactions I would have gotten from my coworkers just by having the knowledge I do now. This internship was pre-COVID, so we were fully in-person, making the reactions that much sweeter.
+The entertaining part of this thought experiment to me is pondering what reactions I would have gotten from my coworkers just by having the knowledge I do now. This internship was pre-COVID, so we were fully in-person, making their hypothetical reactions that much sweeter.
 
-I remember hearing later on that one of my old coworkers was a big [Uncle Bob](https://en.wikipedia.org/wiki/Robert_C._Martin) follower. You know, a real strict [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), die-hard [SOLID](https://en.wikipedia.org/wiki/SOLID) guy. I love to imagine his excitement when a young unassuming intern walks up to this cubicle to strike up a conversation about Dependency Injection or his take on Composition vs. Inheritance. Or even better, rage-baiting him when I suggest we could’ve just built the whole backend in Ruby on Rails. :)
+I remember hearing later on that one of my old coworkers was a big [Uncle Bob](https://en.wikipedia.org/wiki/Robert_C._Martin) follower. You know, a real strict [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), die-hard [SOLID](https://en.wikipedia.org/wiki/SOLID) guy. I love to imagine his excitement when a young unassuming intern walks up to this cubicle to strike up a conversation about Dependency Injection or his take on Composition vs. Inheritance. Or even better, rage-baiting him when I suggest we could’ve just built the whole backend in [loosey-goosey language](https://en.wikipedia.org/wiki/Dynamic_programming_language) like [Ruby](https://www.ruby-lang.org/en/). :)
 
-I do vividly recall how bad I would tune out during some of our meetings (Sprint ceremonies, Company all-hands). It pretty crazy how a lack of domain knowledge and technical competency can make these meetings sounds like an actual foreign language. Naturally, I couldn't wait for these meetings to end. But nowadays I wish I had the oppurtunity to sit back in on them and context gather on all the initiatives that were happening at the company level. How were requirements trickling in? It would have been amusing to debate technical details with my boss at such a young age (especially relative to him with a couple decades of experience) in these meetings.
+I do vividly recall how bad I would tune out during some of our meetings (Sprint ceremonies, Company all-hands). Not registering a thing that was happening. It pretty crazy how a lack of domain knowledge and technical competency can make these meetings sounds like an actual foreign language. Naturally, I couldn't wait for these meetings to end. But nowadays I wish I had the oppurtunity to sit back in on them and context gather on all the initiatives that were happening at the company level. How were projects trickling in? It also would have been amusing to debate technical details with my boss at such a young age (especially relative to him with a couple decades of experience) in these meetings.
 
-Every day interactions would have been immeasurably more rewarding now that I'm able to speak the language of software development. I honestly may been able to bring some good insight and perspective to our more senior/staff level engineers at the time --- having the advantage of being from **7 years in the future** in a continuously evolving field on my side.
+Every day interactions would have been immeasurably more rewarding now that I'm able to speak the language of software development. I honestly may have been able to bring some good insight and perspective to even our more senior/staff level engineers at the time --- having the advantage of being from **7 years in the future** in a continuously evolving field on my side.
 
 
 # Final Thoughts
 
-Looking back on this whole thought experiment, I’m struck by just how much the gap between “intern me” and “current me” reveals —-- not just about the technical knowledge I’ve gained, but about how much of software development is **invisible until it’s not**. It’s not just syntax and tooling; it’s ways of thinking, asking the right questions, noticing what matters, and knowing how to untangle complexity.
+Looking back on this thought experiment, I’m struck by just how much the gap between “intern me” and “current me” reveals —-- not just about the technical knowledge I’ve gained, but about how much of software development is **invisible until it’s not**. It’s also such a quickly evolving field that the landscape of software has shifted and the modern conventions weren't even a thing at my first gig.
 
-I can’t help but smile at the idea of walking into that office with seven years of hard-won lessons in my back pocket. Maybe I wouldn’t rewrite the world in a semester. But I’d ask better questions, learn faster, and connect more deeply with the people around me. And that is very likely what makes this recurring daydream so enticing.
+I can’t help but smile at the idea of walking into that office with several years of hard-won lessons in my back pocket. Maybe I wouldn’t rewrite the world in a semester. But I’d be able to drive much more impact, learn faster, and connect more deeply with the people around me. And that is very likely what makes this recurring daydream so enticing.
