@@ -58,3 +58,10 @@ I remember hearing later on that one of my old coworkers was a big [Uncle Bob](h
 I do vividly recall how bad I would tune out during some of our meetings (Sprint ceremonies, Company all-hands). It pretty crazy how a lack of domain knowledge and technical competency can make these meetings sounds like an actual foreign language. Naturally, I couldn't wait for these meetings to end. But nowadays I wish I had the oppurtunity to sit back in on them and context gather on all the initiatives that were happening at the company level. How were requirements trickling in? It would have been amusing to debate technical details with my boss at such a young age (especially relative to him with a couple decades of experience) in these meetings.
 
 Every day interactions would have been immeasurably more rewarding now that I'm able to speak the language of software development. I honestly may been able to bring some good insight and perspective to our more senior/staff level engineers at the time --- having the advantage of being from **7 years in the future** in a continuously evolving field on my side.
+
+
+# Final Thoughts
+
+Looking back on this whole thought experiment, I’m struck by just how much the gap between “intern me” and “current me” reveals —-- not just about the technical knowledge I’ve gained, but about how much of software development is **invisible until it’s not**. It’s not just syntax and tooling; it’s ways of thinking, asking the right questions, noticing what matters, and knowing how to untangle complexity.
+
+I can’t help but smile at the idea of walking into that office with seven years of hard-won lessons in my back pocket. Maybe I wouldn’t rewrite the world in a semester. But I’d ask better questions, learn faster, and connect more deeply with the people around me. And that is very likely what makes this recurring daydream so enticing.
