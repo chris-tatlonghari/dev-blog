@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A 4.0 GPA & Goodhart's Law: A Cationary Tale"
+title:  "A 4.0 GPA & Goodhart's Law: A Cautionary Tale"
 date:   2026-01-20 18:18:47 -0400
 categories: jekyll update
 ---
